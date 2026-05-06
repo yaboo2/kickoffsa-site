@@ -24,6 +24,4 @@ The `_redirects` file rewrites `/privacy` → `/privacy.html` and `/terms` → `
 
 ## TODOs before launch
 
-- Swap placeholder legal copy in `privacy.html` / `terms.html` for the rendered markdown from `legal/privacy-policy.md` and `legal/terms-of-service.md`.
 - Replace the placeholder App Store CTA in `index.html` with the official Apple-provided App Store badge SVG and real App Store URL.
-- Set the `Last updated:` date on both legal pages.
